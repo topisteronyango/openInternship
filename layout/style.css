@@ -1,0 +1,208 @@
+body {
+    overflow-x: hidden; 
+}
+.mainheader{
+    /* position: relative; */
+    /* background-color: blueviolet; */
+    /* width: 800px; */
+    /* height: 120px; */
+    /* margin: 0 auto; */
+    /* width: 100%; */
+}
+.box1{
+    float: left;
+    width: 25%;
+    /* background-color: blue; */
+    padding: 10px;
+    margin-left: 25px;
+    margin-right: 10px;
+}
+.box2{
+    float: left;
+    width: 40%;
+    /* background-color: rgb(199, 33, 33); */
+    padding: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.box3{
+    width: 25%;
+    float: left;
+    /* background-color: red; */
+    padding: 10px;
+    margin-left: 10px;
+
+}
+h1{
+    text-align: center;
+    padding-top: 5px;
+}
+.desc{
+    text-align: center;
+}
+.main-nav{
+    /* margin-top: 120px; */
+}
+.main-nav ul li{
+    /* list-style-type: none; */
+    /* list-style-image: image("|"); */
+    display: inline;
+    /* background-color: aqua; */
+    text-align: center;
+    
+}
+
+.main-nav ul li a{
+    text-decoration: none;
+    margin-right: 100px;
+    text-align: center;
+    padding-left: 30px;
+}
+
+.main-box{
+    margin: 20px;
+}
+header hr{
+    margin: 25px;
+}
+.box4{
+    width: 50%;
+    float: left;
+
+}
+.box5{
+    float:left;
+    clear: right;
+    width: 600px;
+    margin-left: 5px;
+    position: relative;
+}
+.box5 img{
+    margin-left: 25px;
+    float: left;
+    position: absolute;
+    top: 10px;
+   
+}
+.box5 p{
+    margin-left: 250px;
+    position: absolute;
+    top: -10px;
+}
+.side-box{
+    position: relative;
+}
+.box6{
+    width: 600px;
+}
+.box6 img{   
+    position: absolute;
+    left: 643px;
+    top: 180px;
+    
+}
+.box6 p{
+    margin-left: 873px;
+    position: absolute;
+    top: 180px;
+}
+
+.box7{
+    position: absolute;
+    width: 400px;
+    margin-top: 350px;
+    text-align: justify;
+    margin-left: 40px;
+}
+.box7 button{
+    margin-left: 100px;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: aqua;
+    margin-bottom: 10px;
+}
+
+
+.box8{
+    width: 400px;
+}
+.box8 img{   
+    position: absolute;
+    left: 643px;
+    top: 360px;
+    
+}
+.box8 p{
+    margin-left: 873px;
+    position: absolute;
+    top: 360px;
+}
+
+img{
+    width: 200px;
+}
+.more-class{
+    position: absolute;
+    margin-top: 600px;
+    width: 100%;
+
+}
+.more-class hr{
+    margin: 20px;
+}
+
+.box9{
+    float: left;
+    position: absolute;
+    margin-left: 20px;
+    width: 200px;
+
+}
+
+.box10{
+    float: left;
+    position: absolute;
+    margin-left: 350px;
+    width: 200px;
+
+}
+
+.box11{
+    float: left;
+    position: absolute;
+    margin-left: 690px;
+    width: 200px;
+}
+
+.box12{
+    float: right;
+    position: relative;
+    margin-right: 60px;
+    width: 200px;
+}
+.more-class img{
+    width: 200px;
+    height: 150px;
+}
+
+footer{
+    position: absolute;
+    margin-top: 1050px;
+    width: 100%;
+    text-align: center;
+}
+
+footer ul li{
+    display: inline;
+    text-align: center;
+}
+
+footer ul li a{
+    text-decoration:none;
+    padding-left:50px;
+    padding-right: 50px;
+    padding-top: 0px;
+}
+
